@@ -20,3 +20,13 @@
 9. **Bonus Features**: Implement card search/filtering, undo/redo functionality, and optimize using `React.memo` and `useMemo` for performance.
 
 10. **Integration Testing**: Write tests to ensure the full drag-and-drop and persistence functionality work together smoothly.
+
+
+TO run code :
+
+Extract project from github.
+
+Install npm vite
+
+npm run build
+npm run preview
